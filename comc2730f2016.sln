@@ -23,6 +23,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2b1", "kkrull2b1\kkru
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2c1", "kkrull2c1\kkrull2c1.vbproj", "{6993B592-1225-403C-8592-520737530CCF}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2d1", "kkrull2d1\kkrull2d1.vbproj", "{1E76D34C-F50E-45C0-BD17-8BC9CFFB335C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{6993B592-1225-403C-8592-520737530CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6993B592-1225-403C-8592-520737530CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6993B592-1225-403C-8592-520737530CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E76D34C-F50E-45C0-BD17-8BC9CFFB335C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E76D34C-F50E-45C0-BD17-8BC9CFFB335C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E76D34C-F50E-45C0-BD17-8BC9CFFB335C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E76D34C-F50E-45C0-BD17-8BC9CFFB335C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
