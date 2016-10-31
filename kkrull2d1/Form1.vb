@@ -64,7 +64,7 @@ Public Class Form1
 
         lblTotalDue.Text = dblTotal.ToString
 
-        If 
+
 
 
 
