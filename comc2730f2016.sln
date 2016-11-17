@@ -29,6 +29,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2e1", "kkrull2e1\kkru
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2h1", "kkrull2h1\kkrull2h1.vbproj", "{0AF597BB-9329-4104-BA21-EB673898554B}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "kkrull2I1", "kkrull2I1\kkrull2I1.vbproj", "{DE7B09DC-64D2-46CD-85EF-616959859EF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0AF597BB-9329-4104-BA21-EB673898554B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AF597BB-9329-4104-BA21-EB673898554B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF597BB-9329-4104-BA21-EB673898554B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7B09DC-64D2-46CD-85EF-616959859EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7B09DC-64D2-46CD-85EF-616959859EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7B09DC-64D2-46CD-85EF-616959859EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7B09DC-64D2-46CD-85EF-616959859EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
