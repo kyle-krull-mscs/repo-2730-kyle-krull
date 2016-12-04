@@ -106,12 +106,6 @@ Public Class frmMain
         Return intWeight * dblGravity
     End Function
 
-    Private Sub InputChanged(sender As Object, e As EventArgs) _
-            Handles txtEarthWeight.TextChanged, rdoPlanetSub.CheckedChanged, rdoPlanetFunc.CheckedChanged
-        Dim intWeight As Integer
-
-
-
 
     End Sub
 End Class
